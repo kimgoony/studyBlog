@@ -1,2 +1,2 @@
-# studyBlog
-blog for study
+#studyBlog
+블로그 만들기
